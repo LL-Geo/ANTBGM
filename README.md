@@ -12,7 +12,7 @@ Work Flow:
 
 1. Gather new radar information, make a mask with 50 Km away from new radar 
 2. Mask original ice thickness data with 20 Km away from Radar Measurement in Bedmap2.
-3. Regridding Ice thickness grid from Bedmap2 with new ice thickness data by Topo to Raster in Arcpy.
+3. Regridding Ice thickness grid from Bedmap2 with new ice thickness data by Topo to Raster (ANUDEM algorithm: thin plate spline) in Arcpy.
 
 
 
