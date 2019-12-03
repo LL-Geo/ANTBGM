@@ -1,12 +1,12 @@
 # ANTBGM
 Transation towards Bedmap3(or BedMarchine:Antarctica), ANTGG2?, ADMAP3
 
-The idea of this dataset is filling data gap in current continental scale compliation using pubulic avaiable individual survey.
+The purpose of this dataset is filling data gap in current continental scale compliation using pubulic avaiable individual survey.
 
 
 # Bedmap21
 
-Since the publication of Bedmap2(2013), Ice Pennatrating Radia data has revealed the detail bedrock elevation information in the South Pole, Centre Marine Byrd Land, Recovery Lakes Glacier, Dornning Maud Land. These bed informations are estimated by satelite Free-Air gravity/topography transation in Bedmap2. Here, follow the workflow of building Bedmap2, new PIR data is merged with the exsit bed information.
+Since the publication of Bedmap2(2013), Ice Penetrating Radar data has revealed the detail bedrock elevation information in the South Pole, Centre Marine Byrd Land, Recovery Lakes Glacier, Dornning Maud Land. These bed informations are estimated by satelite Free-Air gravity/topography transation in Bedmap2. Here, follow the workflow of building Bedmap2, new IPR data is merged with the exsit bed information.
 
 Work Flow:
 
