@@ -19,7 +19,9 @@ Work Flow:
 
 # AntGG11
 
+A interesting paper talk about the gravity data compilation in Antarctica.
 
+Zingerle, P., Pail, R., Scheinert, M., et al. (2019). Evaluation of terrestrial and airborne gravity data over Antarctica – a generic approach. Journal of Geodetic Science, 9(1), pp. 29-40. Retrieved 4 Dec. 2019, from doi:10.1515/jogs-2019-0004
 
 
 
