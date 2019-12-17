@@ -26,6 +26,9 @@ A new method (Reduced Uncertainty formulation) that combine pyhsical based model
 
 Monnier, J., & Zhu, J. (2019). Inference of the bottom topography in anisothermal mildly-sheared shallow ice flows. Computer Methods in Applied Mechanics and Engineering, 348, 954-977.
 
+![Surface Ice Velocity (from CSA, JAXA and ESA data) [Rignot et al.])](https://swot.jpl.nasa.gov/images/monnier_c_figure1.png)
+
+
 
 # AntGG11
 
