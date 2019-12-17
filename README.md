@@ -19,6 +19,13 @@ Work Flow:
 
 With the publication of Bedmarchine Antarctica. The bed information is current the best avaliable dataset. The only datagap is in East Princess Elizabeth Land.
 
+Bedmachine Antarctica data set have major improvement in outlet glacier where ice surface velocity > 50 m/a, mass conservation method is used to invert ice thickness.
+For the slow moving area, they use streamline diffusion method to acount for asymetery (e.g. ice thickness varies slowly along slow in downstream; higher gradients when across flow).
+
+A new method (Reduced Uncertainty formulation) that combine pyhsical based model and data driven model to invert bed in large scale (~30 km) and middly sheared flow ( 5 ~ 50 m/a) area.
+
+Monnier, J., & Zhu, J. (2019). Inference of the bottom topography in anisothermal mildly-sheared shallow ice flows. Computer Methods in Applied Mechanics and Engineering, 348, 954-977.
+
 
 # AntGG11
 
