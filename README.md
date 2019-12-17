@@ -4,7 +4,7 @@ Transation towards Bedmap3(or BedMarchine:Antarctica), ANTGG2?, ADMAP3
 The purpose of this dataset is filling data gap in current continental scale compliation using pubulic avaiable individual survey.
 
 
-# Bedmap21
+# Bedmap Antarcitca
 
 Since the publication of Bedmap2(2013), Ice Penetrating Radar data has revealed the detail bedrock elevation information in the South Pole, Centre Marine Byrd Land, Recovery Lakes Glacier, Dornning Maud Land. These bed informations are estimated by satelite Free-Air gravity/topography transation in Bedmap2. Here, follow the workflow of building Bedmap2, new IPR data is merged with the exsit bed information.
 
@@ -21,6 +21,7 @@ With the publication of Bedmarchine Antarctica. The bed information is current t
 
 Bedmachine Antarctica data set have major improvement in outlet glacier where ice surface velocity > 50 m/a, mass conservation method is used to invert ice thickness.
 For the slow moving area, they use streamline diffusion method to acount for asymetery (e.g. ice thickness varies slowly along slow in downstream; higher gradients when across flow).
+![Mapping methods applied across the Antarctic continent (adapted from Figure S1 in Morlighem et al., 2019)](https://nsidc.org/sites/nsidc.org/files/images/mapping_sources(1).png)
 
 A new method (Reduced Uncertainty formulation) that combine pyhsical based model and data driven model to invert bed in large scale (~30 km) and middly sheared flow ( 5 ~ 50 m/a) area.
 
