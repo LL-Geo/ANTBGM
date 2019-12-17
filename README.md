@@ -21,14 +21,15 @@ With the publication of Bedmarchine Antarctica. The bed information is current t
 
 Bedmachine Antarctica data set have major improvement in outlet glacier where ice surface velocity > 50 m/a, mass conservation method is used to invert ice thickness.
 For the slow moving area, they use streamline diffusion method to acount for asymetery (e.g. ice thickness varies slowly along slow in downstream; higher gradients when across flow).
-![Mapping methods applied across the Antarctic continent (adapted from Figure S1 in Morlighem et al., 2019)](https://nsidc.org/sites/nsidc.org/files/images/mapping_sources(1).png)
+![image1](https://nsidc.org/sites/nsidc.org/files/images/mapping_sources(1).png)
+Mapping methods applied across the Antarctic continent (adapted from Figure S1 in Morlighem et al., 2019)
 
 A new method (Reduced Uncertainty formulation) that combine pyhsical based model and data driven model to invert bed in large scale (~30 km) and middly sheared flow ( 5 ~ 50 m/a) area.
 
 Monnier, J., & Zhu, J. (2019). Inference of the bottom topography in anisothermal mildly-sheared shallow ice flows. Computer Methods in Applied Mechanics and Engineering, 348, 954-977.
 
-![Surface Ice Velocity (from CSA, JAXA and ESA data) [Rignot et al.])](https://swot.jpl.nasa.gov/images/monnier_c_figure1.png)
-
+![image2](https://swot.jpl.nasa.gov/images/monnier_c_figure1.png)
+Surface Ice Velocity (from CSA, JAXA and ESA data) [Rignot et al.])
 
 
 # AntGG11
