@@ -23,6 +23,7 @@ Bedmachine Antarctica data set have major improvement in outlet glacier where ic
 For the slow moving area, they use streamline diffusion method to acount for asymetery (e.g. ice thickness varies slowly along slow in downstream; higher gradients when across flow).
 ![image1](https://nsidc.org/sites/nsidc.org/files/images/mapping_sources(1).png)
 **Mapping methods applied across the Antarctic continent (adapted from Figure S1 in Morlighem et al., 2019)**
+GEA data in EDML is not incoperate in to Bedmachine Antarctica (Eagles, G., Karlsson, N. B., Ruppel, A., Steinhage, D., Jokat, W., & Läufer, A. (2018). Erosion at extended continental margins: Insights from new aerogeophysical data in eastern Dronning Maud Land. Gondwana Research, 63, 105-116.)
 
 A new method (Reduced Uncertainty formulation) that combine pyhsical based model and data driven model to invert bed in large scale (~30 km) and middly sheared flow ( 5 ~ 50 m/a) area.
 
