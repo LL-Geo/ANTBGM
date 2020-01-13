@@ -45,3 +45,8 @@ Zingerle, P., Pail, R., Scheinert, M., et al. (2019). Evaluation of terrestrial 
 
 
 # ADMAP21
+
+The large uncertainties in ADMAP2 are the data projection (Geosoft do not have EPSG:3031 projection) and the unclear data height in the final data compliation (subdata has different flight before stitching). 
+
+Texure analysis of mag data has large effect due to the thick ice cover. Thick ice cover similar to sedimentary rock with no magnetization. Downward continuation of flight surface to bedsurface is tested to "remove" the effect of thick ice effect.
+
