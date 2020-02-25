@@ -50,3 +50,8 @@ The large uncertainties in ADMAP2 are the data projection (Geosoft do not have E
 
 Texure analysis of mag data has large effect due to the thick ice cover. Thick ice cover similar to sedimentary rock with no magnetization. Downward continuation of flight surface to bedsurface is tested to "remove" the effect of thick ice effect.
 
+Recomplie ADMAP2 Dataset.
+1. Project Individual Survery to EPSG:3031
+2. Level filight line to a constant height
+3. Grid TMI in different area. 
+4. Stitching to get a continental scale compilation  
