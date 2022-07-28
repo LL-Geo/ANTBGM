@@ -35,12 +35,13 @@ Monnier, J., & Zhu, J. (2019). Inference of the bottom topography in anisotherma
 
 # AntGG11
 
+**Free air gravity: ANTGG with new airborne survey + satellite model**
+
+![Free air gravity](/gravity/faa.png) 
+
 A interesting paper talk about the gravity data compilation in Antarctica.
 
 Zingerle, P., Pail, R., Scheinert, M., et al. (2019). Evaluation of terrestrial and airborne gravity data over Antarctica – a generic approach. Journal of Geodetic Science, 9(1), pp. 29-40. Retrieved 4 Dec. 2019, from doi:10.1515/jogs-2019-0004
-
-
-
 
 
 
@@ -55,3 +56,8 @@ Recomplie ADMAP2 Dataset.
 2. Level filight line to a constant height
 3. Grid TMI in different area. 
 4. Stitching to get a continental scale compilation  
+
+**TMI: ADMAP2 + new airborne survey**
+
+![TMI](magnetic/mag.png) 
+
